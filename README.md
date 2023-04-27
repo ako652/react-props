@@ -10,3 +10,9 @@
 1. Pass prop from `ProductList.jsx` component to `ProductItem.jsx`component
 
 2. Pass prop from `NavBar.jsx` component to `NavList.jsx`component
+
+3. Pass the `productList` from `App.jsx` to `ProductList` then render the product information on the screen using map
+
+## Screenshot
+
+[productList](./screenshots/productList.png)
