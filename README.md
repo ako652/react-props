@@ -15,4 +15,4 @@
 
 ## Screenshot
 
-[productList](./screenshots/productList.png)
+![productList](./screenshots/productList.png)
