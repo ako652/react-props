@@ -7,9 +7,9 @@
 
 ## Requirements
 
-1. Pass prop from `ProductList.jsx` component to `ProductItem.jsx`component
+1. Pass prop from `ProductList.jsx` component to `ProductItem.jsx`component then display the data on the screen
 
-2. Pass prop from `NavBar.jsx` component to `NavList.jsx`component
+2. Pass prop from `NavBar.jsx` component to `NavList.jsx`component then display the data on the screen
 
 3. Pass the `productList` from `App.jsx` to `ProductList` then render the product information on the screen using map
 
