@@ -1,4 +1,9 @@
 import "./App.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import CartList from "./components/cart/CartList";
+import NavBar from "./components/navBar/NavBar";
+
+import ProductList from "./components/product/ProductList";
 
 function App() {
   const productList = [
@@ -109,7 +114,11 @@ function App() {
       },
     },
   ];
-  return <div></div>;
+ 
+  return <div className="App">
+   
+    <ProductList product = {productList}/>
+  </div>;
 }
 
 export default App;
